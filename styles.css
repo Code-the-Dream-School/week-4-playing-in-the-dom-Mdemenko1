@@ -56,3 +56,9 @@ button:hover{
   font-weight: 700;
   margin-bottom: 1em;
 }
+
+.square {
+  background: #000;
+  width: 50px;
+  height: 35px;
+}
