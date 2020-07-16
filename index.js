@@ -20,7 +20,6 @@ mySquare.addEventListener('click', () => {
 
 
 
-
 //------------------------Question 2 ---------------------------
 // //Write a JavaScript program to remove items from a dropdown list.
 // //In order to create the list we are providing you with the array bellow, 
